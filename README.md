@@ -26,7 +26,7 @@ Follow these steps to clone the repository and install dependencies for both the
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/kanban-board.git
+    git clone git@github.com:hieu12-12/kanban-board.git
     ```
 
 2. Navigate into the project directory:
