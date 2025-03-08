@@ -2,6 +2,8 @@
 
 A Kanban board application designed to manage tasks effectively, built using **React** for the front-end and **Express** for the back-end. The project runs both the client and server separately, with clear instructions provided to set up and run the application.
 
+
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -42,13 +44,16 @@ Follow these steps to clone the repository and install dependencies for both the
 This command will run `npm install` inside both the client and server directories, setting up all necessary dependencies.
 
 ## Running the Application
-Create .Env file (Take a look at .env.EXAMPLE)
+Create `.env` file (Take a look at `.env.EXAMPLE`)
+
 ### Development Mode
 
 To start the development environment and run both the client and server simultaneously, use the following command:
 
 ```bash
 npm run start:dev
+
+![Kanban Board](assets/landingBoard.png)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
