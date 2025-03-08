@@ -2,7 +2,7 @@
 
 A Kanban board application designed to manage tasks effectively, built using **React** for the front-end and **Express** for the back-end. The project runs both the client and server separately, with clear instructions provided to set up and run the application.
 
-
+![Kanban Board](assets/landingBoard.png)
 
 ## Table of Contents
 
